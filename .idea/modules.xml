@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back-end/app/api-rest.iml" filepath="$PROJECT_DIR$/back-end/app/api-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/backend.iml" filepath="$PROJECT_DIR$/back-end/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backend-bootcamp(modulo-cart-agregado-ejemplo1-bootcampII).iml" filepath="$PROJECT_DIR$/.idea/backend-bootcamp(modulo-cart-agregado-ejemplo1-bootcampII).iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/cart/cart.iml" filepath="$PROJECT_DIR$/back-end/cart/cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/sgx-backoffice/sgx-backoffice.iml" filepath="$PROJECT_DIR$/back-end/sgx-backoffice/sgx-backoffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back-end/sgx-shared/sgx-shared.iml" filepath="$PROJECT_DIR$/back-end/sgx-shared/sgx-shared.iml" />
+    </modules>
+  </component>
+</project>
